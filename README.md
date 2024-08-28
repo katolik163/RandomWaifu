@@ -17,6 +17,7 @@ Create and activate virtual environment then install dependency:
 
 ```
 py -m venv .venv
+.venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
