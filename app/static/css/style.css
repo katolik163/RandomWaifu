@@ -1,0 +1,11 @@
+img {
+    max-height: 75vh;
+    max-width: 75vw;
+}
+
+.color-square {
+    border: 1px solid;
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+}
