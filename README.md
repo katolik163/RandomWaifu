@@ -13,7 +13,7 @@ git clone https://github.com/katolik163/randomwaifu.git
 cd randomwaifu
 ```
 
-Create and activate virtual environment then install dependency:
+Create and activate virtual environment then install dependencies:
 
 ```
 py -m venv .venv
